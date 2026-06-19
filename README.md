@@ -82,13 +82,6 @@ The project covers:
 
 The model was evaluated using multiple performance metrics.
 
-| Metric | Value |
-|----------|----------|
-| Training R² Score | `<TRAIN_R2_SCORE>` |
-| Testing R² Score | `<TEST_R2_SCORE>` |
-| Mean Absolute Error (MAE) | `<MAE_VALUE>` |
-| Root Mean Squared Error (RMSE) | `<RMSE_VALUE>` |
-
 ### Evaluation Interpretation
 
 #### R² Score
